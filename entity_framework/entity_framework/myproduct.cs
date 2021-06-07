@@ -10,7 +10,7 @@ namespace entity_framework
     {
         public int myproductID
         {
-            get;
+            
             set;
         }
         public string prodName
